@@ -11,7 +11,7 @@ que = {}
 admins = {}
 SESSION_NAME = getenv("SESSION_NAME", "session")
 BOT_TOKEN = getenv("BOT_TOKEN")
-BOT_NAME = getenv("BOT_NAME", "Veez Music")
+BOT_NAME = getenv("BOT_NAME", "FLORINAVCSONGBOTc")
 BG_IMAGE = getenv("BG_IMAGE", "https://telegra.ph/file/8628c642a266a22effd8c.png")
 THUMB_IMG = getenv("THUMB_IMG", "https://telegra.ph/file/4c39fbb88932761913fff.png")
 AUD_IMG = getenv("AUD_IMG", "https://telegra.ph/file/73e10ed6e2bd32b478de6.png")
@@ -20,14 +20,14 @@ CMD_IMG = getenv("CMD_IMG", "https://telegra.ph/file/66518ed54301654f0b126.png")
 ALIVE_IMG = getenv("ALIVE_IMG", "https://telegra.ph/file/c83b000f004f01897fe18.png")
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
-BOT_USERNAME = getenv("BOT_USERNAME", "veezmusicbot")
-ASSISTANT_NAME = getenv("ASSISTANT_NAME", "veezassistant1")
-GROUP_SUPPORT = getenv("GROUP_SUPPORT", "VeezSupportGroup")
-UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "levinachannel")
+BOT_USERNAME = getenv("BOT_USERNAME", "florina_robot")
+ASSISTANT_NAME = getenv("ASSISTANT_NAME", "Florina_assis")
+GROUP_SUPPORT = getenv("GROUP_SUPPORT", "florina_support")
+UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "florina_hannel")
 # isi dengan username kamu tanpa simbol @
-OWNER_NAME = getenv("OWNER_NAME", "dlwrml")
+OWNER_NAME = getenv("OWNER_NAME", "faraday789")
 # fill with your nickname
-ALIVE_NAME = getenv("ALIVE_NAME", "Levina")
+ALIVE_NAME = getenv("ALIVE_NAME", "FLORINA")
 # fill with your id as the owner of the bot
 OWNER_ID = int(os.environ.get("OWNER_ID"))
 DATABASE_URL = os.environ.get("DATABASE_URL")  # fill with your mongodb url
