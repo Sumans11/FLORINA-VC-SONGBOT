@@ -23,7 +23,7 @@ API_HASH = getenv("API_HASH")
 BOT_USERNAME = getenv("BOT_USERNAME", "florina_robot")
 ASSISTANT_NAME = getenv("ASSISTANT_NAME", "Florina_assis")
 GROUP_SUPPORT = getenv("GROUP_SUPPORT", "florina_support")
-UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "florina_hannel")
+UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "florina_channel")
 # isi dengan username kamu tanpa simbol @
 OWNER_NAME = getenv("OWNER_NAME", "faraday789")
 # fill with your nickname
